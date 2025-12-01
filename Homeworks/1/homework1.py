@@ -35,3 +35,4 @@ Student median: {median(enrollment_stats(universities)[0])}
 Tuition mean: $ {mean(enrollment_stats(universities)[1])}
 Tuition median: $ {median(enrollment_stats(universities)[1])}
 ******************************""")
+
