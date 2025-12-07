@@ -42,4 +42,7 @@ def power(base, exponent):
 
 print(power(2,4))
 
-#
+#  / _ \
+#\_\(_)/_/
+# _//o\\_  spider
+#  /   \
